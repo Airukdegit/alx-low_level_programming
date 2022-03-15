@@ -6,7 +6,7 @@
  * retun: 0 (success)
  */
 
-char the_alphabet(void)
+void the_alphabet(void)
 {
 	int i;
 
