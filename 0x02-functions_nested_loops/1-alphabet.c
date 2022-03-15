@@ -6,7 +6,7 @@
  * retun: 0 (success)
  */
 
-void the_alphabet(void)
+void print_alphabet(void)
 {
 	int i;
 
