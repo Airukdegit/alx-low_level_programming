@@ -2,8 +2,9 @@
 
 /**
  * main function prints _putchar
- *
- * Description: prints _putchar
+ * @void: Char datatype spelling '_putchar'
+ * Description: prints _putchar to standard output
+ * 
  *
  * Return: 0 (Success)
  */
