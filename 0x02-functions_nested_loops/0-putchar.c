@@ -1,10 +1,9 @@
 #include "main.h"
 
 /**
- * main function prints _putchar
- * @void: Char datatype spelling '_putchar'
- * Description: prints _putchar to standard output
- * 
+ * main - prints _putchar
+ *
+ * Description: prints _putchar
  *
  * Return: 0 (Success)
  */
