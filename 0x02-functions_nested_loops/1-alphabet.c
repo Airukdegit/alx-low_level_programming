@@ -1,8 +1,7 @@
 #include "main.h"
 
 /**
- * the_aphabet - Prints out the entire alpphabet to the standard output
- * 
+ * print_alphabet - Prints out the entire alpphabet to the standard output
  * retun: 0 (success)
  */
 
