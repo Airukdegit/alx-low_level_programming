@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_alphabet_x10 - Prints out the entire alphabet 10 times to the standard output
+ * print_alphabet_x10 - Prints out the entire alphabet 10 times.
  * retun: 0 (success)
  */
 
@@ -12,7 +12,8 @@ void print_alphabet_x10(void)
 	while (count_to_ten < 10)
 	{
 		char alphabet = 'a';
-		while (alphabet <= 'z' )
+
+		while (alphabet <= 'z')
 		{
 			_putchar(alphabet);
 			alphabet++;
