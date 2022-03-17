@@ -1,6 +1,8 @@
-#ifndef MAIN_H_
-#define MAIN_H_
+#ifndef _MAIN_H
+#define _MAIN_H
+
+#include <stdio.h>
 
 int _isdigit(int c);
 
-#endif
+#endif /* MAIN_H */
