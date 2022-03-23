@@ -3,9 +3,9 @@
 /**
 * _strlen - Prints a string then a new line. 
 * @str: arg  *str
-* Return: 0.
+* Return: void
 */
-void _putchar(char *str)
+void _puts(char *str)
 {
 	int i = 0;
 
