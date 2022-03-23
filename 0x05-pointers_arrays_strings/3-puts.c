@@ -5,16 +5,16 @@
 * @str: arg  *str
 * Return: 0.
 */
-void _puts(char *str);
+void _puts(char *str)
 {
-	int i = 0
+	int i = 0;
 
 	while (str[i])
 	{
 		_putchar(str[i];
 		i++;
 	}
-	_putchar('\n')
-	return (count);
+	_putchar('\n');
+	return (i);
 }
 
