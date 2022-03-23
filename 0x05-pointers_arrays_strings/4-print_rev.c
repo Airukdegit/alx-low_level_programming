@@ -5,9 +5,9 @@
 * @s: argument  *s
 * Return: 0
 */
-void print_rev(char *s);
+void print_rev(char *s)
 {
-	int i = 0
+	int i = 0;
 
 	while (i >= 0)
 	{
@@ -15,8 +15,8 @@ void print_rev(char *s);
 			break;
 		i++;
 	}
-	for (i--; i >= 0; i--
+	for (i--; i >= 0; i--);
 		_putchar(s[i]);	
-	_putchar('\n')
+	_putchar('\n');
 }
 

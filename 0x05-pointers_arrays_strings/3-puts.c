@@ -5,7 +5,7 @@
 * @str: arg  *str
 * Return: 0.
 */
-void _puts(char *str)
+void _putchar(char *str)
 {
 	int i = 0;
 
@@ -15,6 +15,5 @@ void _puts(char *str)
 		i++;
 	}
 	_putchar('\n');
-	return (i);
 }
 
