@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
-* _strlen - Prints a string then a new line. 
+* _puts - Prints a string then a new line.
 * @str: arg  *str
 * Return: void
 */
