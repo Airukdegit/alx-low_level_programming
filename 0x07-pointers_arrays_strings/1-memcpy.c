@@ -6,7 +6,7 @@
  * @n: bytes filled
  * Return: the pointer
  */
-char *_memcpy(char *dest, char b, usigned int n)
+char *_memcpy(char *dest, char *src, unsigned int n)
 {	
 	unsigned int i;
 
