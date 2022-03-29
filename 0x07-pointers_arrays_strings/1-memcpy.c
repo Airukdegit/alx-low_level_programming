@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _memset - copies mamory area
+ * _memcpy - copies mamory area
  * @dest: destinatio memory area
  * @src: source memory area.
  * @n: bytes filled
